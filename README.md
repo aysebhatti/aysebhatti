@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayşe-nur-bhatti-95502a273/">
+  <a href="https://www.linkedin.com/in/aysenurbhatti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aysenurbhatti@gmail.com">
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧭 About
+##  About
 
 I work at the intersection of **digital assessment, learning experience, and product delivery** — translating regulator, educator, learner, and engineering needs into shippable specs.
 
@@ -32,7 +32,7 @@ In parallel, I'm pursuing research at the intersection of **knowledge graphs, on
 
 ---
 
-## 💼 What I do well
+##  What I do well
 
 - **Curriculum & learning experience design** for children — standards-aligned (Common Core, NGSS, Montessori), play-based, age-appropriate
 - **Game-based learning collaboration**: writing learning outcomes for game designers, reviewing GDDs, prototyping, UX playtesting with children
