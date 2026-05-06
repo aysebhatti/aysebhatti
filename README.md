@@ -1,9 +1,4 @@
-<h1 align="center">Hi, I'm Ayşe Nur 👋</h1>
-
-<p align="center">
-  <b>Business Analyst · EdTech & Digital Assessment</b><br/>
-  <i>Bridging high-stakes assessment, learning experience, and product delivery.</i>
-</p>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ed674205-0c4c-4136-b31b-32ce6c26a9ac" /><h1 align="center">Hi, I'm Ayşe Nur 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aysenurbhatti/">
