@@ -1,5 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ed674205-0c4c-4136-b31b-32ce6c26a9ac" /><h1 align="center">Hi, I'm Ayşe Nur 👋</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aysenurbhatti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
